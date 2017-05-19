@@ -18,4 +18,8 @@
 {
   margin: 50px 0;
 }
+.button
+{
+  margin-right:20px;
+}
 </style>
